@@ -1,0 +1,7 @@
+Statistical NLP
+
+Whey do we need a machine learning?
++ When we do not have a logic to build a code then we required a machine learning.
+
+
+
